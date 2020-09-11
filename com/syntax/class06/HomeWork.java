@@ -35,7 +35,7 @@ public class HomeWork {
 		promptAlertButton.click();
 		
 		Thread.sleep(3000);
-		alert.sendKeys("Hey");
+		alert.sendKeys("Toka");
 		
 		Thread.sleep(3000);
 		alert.accept();
